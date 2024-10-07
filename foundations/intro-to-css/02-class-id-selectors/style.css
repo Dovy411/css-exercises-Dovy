@@ -1,9 +1,9 @@
 .odd {
     background-color: rgb(248, 128, 148);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.cooler {
+.adjust-font-size {
     font-size: 24px;
 }
 
