@@ -60,10 +60,6 @@ body {
   padding: 16px;
 }
 
-.cards {
-  display: flex;
-}
-
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -78,4 +74,16 @@ ul li a {
   text-decoration: none;
   color: white;
   font-size: 24px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 20px;
+}
+
+.cards .card {
+  padding: 14px;
+  width: 300px;
 }
